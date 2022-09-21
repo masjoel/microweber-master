@@ -1,0 +1,111 @@
+000046a:1:{s:4:"time";s:21:"0.79508900 1663771997";}1663831997a:9:{s:2:"id";i:50;s:10:"updated_at";s:19:"2021-04-27 13:57:12";s:10:"created_at";s:19:"2021-04-27 13:57:12";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:41:"layout-people-skin-1-module-layouts-24--4";s:5:"value";s:8169:"
+    <div class="d-flex w-100">
+        <div class="container align-self-centerx">
+            <div class="row">
+                <div class="col-xl-8 col-lg-8 text-center m-b-20 mx-auto">
+                    <h1 class="m-b-10">Our Team</h1>
+                    <p class="lead">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+                    <hr class="hr">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12 col-lg-12 col-xl-10 mx-auto">
+                    <div class="row text-center text-white">
+                        <div class="col-12 col-sm-6 col-md-4 cloneable">
+                            <div class="background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/people-1.jpg');">
+                                <div class="square">
+                                    <div class="content allow-drop element">
+                                        <h5 class="element">Charley Doe</h5>
+                                        <p class="m-t-10 element">Charley is a senior developer in our company. He is doing great code and software solutions. Educated in Sofia, Bulgaria.</p>
+
+                                        <div class="element socials-holder">
+                                            <module class=" module module-social-links " id="module-layouts-24--4-social-links" data-mw-title="Social Links" data-type="social_links" parent-module-id="module-layouts-24--4" parent-module="layouts"></module>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-sm-6 col-md-4 cloneable">
+                            <div class="background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/people-6.jpg');">
+                                <div class="square">
+                                    <div class="content allow-drop element" id="element_1619531767651">
+                                        <h5 class="element" id="element_1619531767967">Charley Doe</h5>
+                                        <p class="m-t-10 element" id="element_1619531767785">Charley is a senior developer in our company. He is doing great code and software solutions. Educated in Sofia, Bulgaria.</p>
+
+                                        <div class="element socials-holder" id="element_1619531767648">
+                                            <module class="module module-social-links" id="module-layouts-24--4-social-links--5" data-mw-title="Social Links" data-type="social_links" parent-module-id="module-layouts-24--4" parent-module="layouts"></module>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+<div class="col-12 col-sm-6 col-md-4 cloneable">
+                            <div class="background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/people-2.jpg');">
+                                <div class="square">
+                                    <div class="content allow-drop element" id="element_1619531767554">
+                                        <h5 class="element">Charley Doe</h5>
+                                        <p class="m-t-10 element" id="element_1619531767966">Charley is a senior developer in our company. He is doing great code and software solutions. Educated in Sofia, Bulgaria.</p>
+
+                                        <div class="element socials-holder">
+                                            <module class=" module module-social-links " id="module-layouts-24--4-social-links--1" data-mw-title="Social Links" data-type="social_links" parent-module-id="module-layouts-24--4" parent-module="layouts"></module>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-sm-6 col-md-4 cloneable">
+                            <div class="background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/people-3.jpg');">
+                                <div class="square">
+                                    <div class="content allow-drop element">
+                                        <h5 class="element">Charley Doe</h5>
+                                        <p class="m-t-10 element" id="element_1619531767560">Charley is a senior developer in our company. He is doing great code and software solutions. Educated in Sofia, Bulgaria.</p>
+
+                                        <div class="element socials-holder">
+                                            <module class=" module module-social-links " id="module-layouts-24--4-social-links--2" data-mw-title="Social Links" data-type="social_links" parent-module-id="module-layouts-24--4" parent-module="layouts"></module>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-sm-6 col-md-4 cloneable">
+                            <div class="background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/people-5.jpg');">
+                                <div class="square">
+                                    <div class="content allow-drop element" id="element_1619531767625">
+                                        <h5 class="element" id="element_1619531767668">Charley Doe</h5>
+                                        <p class="m-t-10 element" id="element_1619531767776">Charley is a senior developer in our company. He is doing great code and software solutions. Educated in Sofia, Bulgaria.</p>
+
+                                        <div class="element socials-holder" id="element_1619531767627">
+                                            <module class="module module-social-links" id="module-layouts-24--4-social-links--4" data-mw-title="Social Links" data-type="social_links" parent-module-id="module-layouts-24--4" parent-module="layouts"></module>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+<div class="col-12 col-sm-6 col-md-4 cloneable">
+                            <div class="background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/people-4.jpg');">
+                                <div class="square">
+                                    <div class="content allow-drop element" id="element_1619531767574">
+                                        <h5 class="element">Charley Doe</h5>
+                                        <p class="m-t-10 element" id="element_1619531767577">Charley is a senior developer in our company. He is doing great code and software solutions. Educated in Sofia, Bulgaria.</p>
+
+                                        <div class="element socials-holder" id="element_1619531767597">
+                                            <module class="module module-social-links" id="module-layouts-24--4-social-links--3" data-mw-title="Social Links" data-type="social_links" parent-module-id="module-layouts-24--4" parent-module="layouts"></module>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+";}

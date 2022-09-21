@@ -1,0 +1,42 @@
+000046a:1:{s:4:"time";s:21:"0.89430900 1663772000";}1663832000a:9:{s:2:"id";i:55;s:10:"updated_at";s:19:"2021-04-28 10:29:49";s:10:"created_at";s:19:"2021-04-28 10:29:49";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:40:"layout-videos-skin-6-module-layouts-7--3";s:5:"value";s:2457:"
+    <div class="d-flex w-100">
+        <div class="container align-self-center info-holder">
+            <div class="row">
+                <div class="col-12 col-xl-8 mx-auto">
+                    <div class="row justify-content-xl-between">
+                        <div class="col-sm-10 mx-sm-auto mx-xl-0 col-xl-6 info-holder allow-drop element">
+                            <div class="element nodrop clearfix">
+                                <div class="float-right" style="width: 80px;">
+                                    <hr class="hr w-100 safe-element m-t-10" style="background-color: #fff;">
+                                </div>
+                                <p class="m-b-20" style="letter-spacing:1.5px;">Introduction</p>
+                            </div>
+
+                            <h2 class="m-b-30 element" id="element_1619605778731">How we growth <br class="d-none d-xl-block">our business.</h2>
+                            <p class="element" id="element_1619605778756">Content management system and website builder. It is based on the PHP programming language and the Laravel web application framework, using drag and drop and allowing users to quickly create content, while scheduling and managing multiple displays.</p>
+                            <div class="element m-t-40">
+                                <module class=" module module-btn " id="module-layouts-7--3-btn" data-mw-title="Button" template="bootstrap" text="Contact Us" button_style="btn-primary" data-type="btn" parent-module-id="module-layouts-7--3" parent-module="layouts"></module>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-10 mx-sm-auto mx-xl-0 col-xl-5 video-holder d-flex align-items-center justify-content-center">
+                            <div class="w-100">
+                                <div class="div-table">
+                                    <div class="div-table-cell d-flex justify-content-center">
+
+
+
+
+                                        <div class="img">
+                                            <img src="{SITE_URL}userfiles/templates/new-world/assets/img/video-bg.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+";}

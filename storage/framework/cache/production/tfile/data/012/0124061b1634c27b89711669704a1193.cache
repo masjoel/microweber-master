@@ -1,0 +1,46 @@
+000046a:1:{s:4:"time";s:21:"0.88078900 1663772000";}1663832000a:9:{s:2:"id";i:54;s:10:"updated_at";s:19:"2021-04-28 10:29:49";s:10:"created_at";s:19:"2021-04-28 10:29:49";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:34:"layout-skin-10-module-layouts-7--2";s:5:"value";s:2465:"
+    <div class="container align-self-center info-holder">
+        <div class="row">
+            <div class="col-12 col-xl-8 mx-auto">
+                <div class="row d-flex">
+                    <div class="col-md-6">
+                        <div class="img-holder h-100 w-100">
+                            <div class="image-1 element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/1.jpg');"></div>
+                            <div class="image-2 element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/2.jpg');"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 right-side allow-drop element" id="element_1619605778679">
+                        <div class="element">
+                        <div class="nodrop clearfix element">
+                            <div class="float-right" style="width: 80px;">
+                                <hr class="hr w-100 safe-element m-t-10">
+                            </div>
+                            <p class="m-b-20 text-primary" style="letter-spacing:1.5px;">Trust our best services</p>
+                        </div>
+                        </div>
+
+                        <h2 class="m-b-30 element" id="element_1619605778666">What we are <br class="d-none d-xl-block">doing best.</h2>
+                        <p class="element" id="element_1619605778681">Content management system and website builder. It is based on the PHP programming language and the Laravel web application framework, using drag and drop and allowing users to quickly create content, while scheduling and managing multiple displays.</p>
+
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <div class="small-cta no-drop element" style="margin-bottom: 15px;">
+                            <div class="icon-holder element">
+                                <i class="mw-micon-Telephone"></i>
+                            </div>
+                            <div class="element">
+                                <p class="element">Make a call</p>
+                                <h4 class="element">00 1 234 567 890</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+";}
