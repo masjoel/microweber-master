@@ -1,0 +1,10 @@
+000046a:1:{s:4:"time";s:21:"0.98364900 1663773467";}1663833467a:9:{s:2:"id";i:24;s:10:"updated_at";s:19:"2020-02-17 08:47:55";s:10:"created_at";s:19:"2020-02-17 08:47:55";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:39:"layout-posts-skin-1-module-layouts-2--1";s:5:"value";s:366:"
+    <div class="container allow-drop element" id="element_1581929257366">
+        <div class="row element nodrop">
+            
+        </div>
+
+        <module class="module module-posts" id="module-layouts-2--1-posts" data-mw-title="Posts List" template="blog" data-type="posts" parent-module-id="module-layouts-2--1" parent-module="layouts"></module>
+
+    </div>
+";}
